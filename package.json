@@ -2,6 +2,7 @@
   "name": "todo-app",
   "version": "1.0.0",
   "description": "",
+  "build":"tsc",
   "main": "dist/src/app.js",
   "scripts": {
     "build": "tsc",
